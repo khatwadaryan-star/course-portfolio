@@ -9,7 +9,7 @@ body {
 }
 
 body {
-    font-family: "Times New Roman", serif;
+    font-family: "Arial", serif;
     line-height: 2;
     display: flex;
     justify-content: center;
@@ -21,7 +21,7 @@ main {
     max-width: 1200px;
     width: 90%;
     padding: 16px;
-    border: 1px solid rgba(0, 0, 0, 0.25);
+    border: 1px solid rgb(238, 255, 6);
 }
 
 h1 {
@@ -52,7 +52,7 @@ main>p {
     flex: 1 1 300px;
     min-width: 250px;
     max-width: 400px;
-    border: 1px solid rgba(0, 0, 0, 0.25);
+    border: 1px solid rgb(30, 0, 255);
     background-color: #fafafa;
     padding: 16px;
 }
@@ -61,7 +61,7 @@ main>p {
     width: 100%;
     height: auto;
     display: block;
-    border: 1px solid rgba(0, 0, 0, 0.25);
+    border: 1px solid rgb(255, 36, 36);
     margin-bottom: 16px;
 }
 
@@ -75,7 +75,7 @@ main>p {
 
 .collection-card .details {
     font-size: 14px;
-    color: rgba(0, 0, 0, 0.6);
+    color: rgba(2, 255, 44, 0.6);
     margin-bottom: 16px;
     font-style: italic;
 }
